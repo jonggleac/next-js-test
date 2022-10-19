@@ -9,7 +9,10 @@ export default function AboutPage() {
   return (
     <div className={styles.container}>
       <Head>
-        <title> About </title>
+        <title> About Me </title>
+        <h1>Name : 이종엽</h1>
+        <h1>Age : 23</h1>
+        <h2>IG : yeoep_</h2>
       </Head>
 
       <h1 className={styles.homeTitle}>About Page !</h1>
