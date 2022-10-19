@@ -12,7 +12,10 @@ export default function AboutPage() {
         <title> About Me </title>
       </Head>
 
-      <h1 className={styles.homeTitle}>About Page !</h1>
+      <h1 className={styles.homeTitle}>About Me !</h1>
+      <h2>Name : 이종엽</h2>
+      <h2>Age : 23</h2>
+      <h3>IG : yeoep_</h3>
     </div>
   )
 }
